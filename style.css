@@ -1,0 +1,123 @@
+a{
+  text-decoration: none;
+  color:#666;
+  font-family: arial,sans-serif;
+}
+
+a:hover{
+  text-decoration: underline;
+}
+.navbar{
+  text-align:right;
+}
+
+.gmail{
+  display: inline-block;
+}
+
+.images{
+  display: inline-block;
+}
+.login{
+  display: inline-block;
+}
+
+.body {
+  background-color: #fff;
+}
+
+.logo {
+  text-align:center;
+  padding-top: 220px;
+}
+
+.searchform{
+  padding-top:20px;
+  text-align:center;
+}
+.input{
+    height: 25px;
+    width:560px;
+    border:1px solid #ededed ;
+    box-shadow: 0px 4px 4px -4px #5e5e5e;
+    border-radius: 2px;
+    font-size: 18px;
+}
+.searchbutton{
+  font-family: arial,sans-serif;
+   font-size: 13px;
+   background-color: #f2f2f2;
+   border: 1px solid #f2f2f2;
+   color: #757575;
+   padding: 10px 16px;
+   font-weight: bold;
+}
+.searchbutton:hover{
+  color: black;
+  border: 1px solid lightgrey;
+}
+.luckybutton{
+  font-family: arial,sans-serif;
+   font-size: 13px;
+   background-color: #f2f2f2;
+   border: 1px solid #f2f2f2;
+   color: #757575;
+   padding: 10px 16px;
+   font-weight: bold;
+}
+.luckybutton:hover{
+  color: black;
+  border: 1px solid lightgrey;
+}
+.navbottom{
+  position: absolute;
+  bottom: 0px;
+  background-color: #f2f2f2;
+  width: 100%;
+  height: 20px;
+  border-top: 1px solid #e4e4e4;
+}
+
+#bottomleft{
+  position: absolute;
+}
+#bottomright{
+position: absolute;
+right:25px;
+}
+
+.Advertising{
+  margin-right: 30px;
+  font-size: 10pt;
+  margin-left: 20px;
+}
+.Business{
+  margin-right: 30px;
+  font-size: 10pt;
+  margin-left: 20px;
+}
+.About{
+  margin-right: 30px;
+  font-size: 10pt;
+  margin-left: 20px;
+}
+.Privacy{
+  margin-right: 30px;
+  font-size: 10pt;
+  margin-left: 20px;
+}
+.Terms{
+  margin-right: 30px;
+  font-size: 10pt;
+  margin-left: 20px;
+}
+.Settings{
+  margin-right: 30px;
+  font-size: 10pt;
+  margin-left: 20px;
+}
+.Google{
+  margin-right: 30px;
+  font-size: 10pt;
+  margin-left: 20px;
+}
